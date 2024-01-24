@@ -1,0 +1,3 @@
+[submodule "PalworldModdingKit"]
+	path = PalworldModdingKit
+	url = https://github.com/localcc/PalworldModdingKit.git

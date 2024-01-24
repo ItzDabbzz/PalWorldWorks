@@ -1,0 +1,11 @@
+{
+  "name": "paldata-converter",
+  "version": "1.0.0",
+  "description": "PalWorld Data Converter",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItzDabbzz",
+  "license": "ISC"
+}
